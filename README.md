@@ -1,1 +1,1 @@
-一个LegalRag的Benchmark（评测基准）
+一个关于LegalRag的benchmark（评测基准）
