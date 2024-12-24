@@ -1,0 +1,5 @@
+setup.py
+src/MyLegalBenchRag.egg-info/PKG-INFO
+src/MyLegalBenchRag.egg-info/SOURCES.txt
+src/MyLegalBenchRag.egg-info/dependency_links.txt
+src/MyLegalBenchRag.egg-info/top_level.txt
